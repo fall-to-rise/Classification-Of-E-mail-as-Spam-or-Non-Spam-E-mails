@@ -3,9 +3,9 @@
 %
 %  Instructions
 %  ------------
-%	#Saloni 
+% 
 %  This file contains code that helps you get started on the
-%  exercise. You will need to complete the following functions as per the project module:
+%  exercise. You will need to complete the following functions:
 %
 %     gaussianKernel.m
 %     dataset3Params.m
